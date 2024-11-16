@@ -8,7 +8,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="uRAD-firmware",                         		# Replace with your project name
-    version="1.0.0",                            		# Version of your package
+    version="1.0.0.dev1",                            		# Version of your package
     description="uRAD firmware library and script that reads the raw dara from the uRAD RADAR system",   # Short description
     author="Kananelo Chabeli",
     author_email="kchabeli688@gmail.com",

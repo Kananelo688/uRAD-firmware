@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: uRAD-firmware
-Version: 1.0.0
-Summary: uRAD firmware library and script that reads the raw dara from the uRAD system
+Version: 1.0.0.dev1
+Summary: uRAD firmware library and script that reads the raw dara from the uRAD RADAR system
 Home-page: https://github.com/Kananelo688
 Author: Kananelo Chabeli
 Author-email: kchabeli688@gmail.com

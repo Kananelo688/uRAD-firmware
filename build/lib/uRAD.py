@@ -203,7 +203,9 @@ def main():
 	else:
 		resultsFileName = 'outputIQ.txt' #use defualt filename: (Queto)
 
-	fileResults = open(resultsFileName, 'a')
+	if not args.test:
+		fileResults = open(resultsFileName, 'a')
+	
 	iterations = 0
 	t_0 = time()
 
